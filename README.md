@@ -55,6 +55,7 @@ Features include:
 - NumPy
 - Matplotlib
 - Seaborn
+- power BI
 
 ---
 
